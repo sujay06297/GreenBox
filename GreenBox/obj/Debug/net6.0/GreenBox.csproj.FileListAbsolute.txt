@@ -1,0 +1,14 @@
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\bin\Debug\net6.0\GreenBox.deps.json
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\bin\Debug\net6.0\GreenBox.runtimeconfig.json
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\bin\Debug\net6.0\GreenBox.dll
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\bin\Debug\net6.0\GreenBox.pdb
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.csproj.AssemblyReference.cache
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.AssemblyInfoInputs.cache
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.AssemblyInfo.cs
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.csproj.CoreCompileInputs.cache
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.dll
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\refint\GreenBox.dll
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.pdb
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\GreenBox.genruntimeconfig.cache
+C:\Users\sujay\Desktop\面試\無毒農\GreenBox\GreenBox\obj\Debug\net6.0\ref\GreenBox.dll
